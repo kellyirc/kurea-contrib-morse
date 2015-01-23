@@ -1,0 +1,10 @@
+{
+  "name": "kurea-contrib-morse",
+  "main": "index.coffee",
+  "version": "0.0.0",
+  "description": "A morse code translation module for Kurea.",
+  "license": "MIT",
+  "dependencies": {
+    "morse": "^0.1.0"
+  }
+}
